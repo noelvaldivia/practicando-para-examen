@@ -1,0 +1,17 @@
+
+
+body{
+background-color: antiquewhite;
+font-family: sans-serif;
+
+}
+p{
+font-family: 'Odibee Sans', cursive;
+font-size: large;
+font-weight: bold;
+font-style: italic; 
+text-align: justify;
+text-decoration: line-through;
+text-align: right;
+text-decoration-color: aqua;
+}
